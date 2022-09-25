@@ -1,4 +1,4 @@
-package lesson1_3.annotations.junit;
+package lesson1_3.annotations.junit.myAnnotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
